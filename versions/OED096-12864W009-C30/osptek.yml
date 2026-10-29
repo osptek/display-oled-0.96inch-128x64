@@ -1,0 +1,10 @@
+id: OED096-12864W009-C30
+category: displays
+size: "0.96"
+panel: oled
+resolution: 128x64
+interface: [spi, i2c]
+driver: SSD1315
+touch: null
+outline: 24.7 x 16.6 mm
+active_area: 21.74 x 11.175 mm

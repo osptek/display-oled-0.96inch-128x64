@@ -1,0 +1,10 @@
+id: ODM096-12864W009-P4
+category: displays
+size: "0.96"
+panel: oled
+resolution: 128x64
+interface: [i2c]
+driver: SSD1315
+touch: null
+outline: 26.00 x 27.00 mm
+active_area: 21.74 x 11.18 mm
